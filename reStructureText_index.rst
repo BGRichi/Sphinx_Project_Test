@@ -3,19 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-HS100数据手册
+reStructure语法学习（index嵌套）
 ======================================
 
 .. toctree::
    :maxdepth: 2
    :caption: 目录
 
-   reStructureText语法学习<reStructureText_index>
-   reStructureText
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   内联标记<reStructureText_内联标记>
+   自定义文本解释角色<reStructureText_自定义文本解释角色>
+   列表<reStructureText_列表>
+   常用标签<reStructureText_常用标签>

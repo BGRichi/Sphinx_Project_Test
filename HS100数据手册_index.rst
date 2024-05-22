@@ -10,12 +10,6 @@ HS100数据手册
    :maxdepth: 2
    :caption: 目录
 
-   reStructureText语法学习<reStructureText_index>
-   reStructureText
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   产品概述
+   产品型号
+   硬件结构

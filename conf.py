@@ -14,10 +14,16 @@ release = '1.0.0'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = ['recommonmark']
 
 templates_path = ['_templates']
 exclude_patterns = []
+
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.txt': 'restructuredtext',
+    '.md': 'markdown',
+}
 
 language = 'zh_CN'
 
